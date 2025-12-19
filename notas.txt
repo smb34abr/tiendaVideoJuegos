@@ -1,0 +1,20 @@
+/* Crear base de datos tiendaVideoJuegos */
+https://www.youtube.com/watch?v=UE3HkJ7A-Mo
+
+1.- python -m venv env                              # Para crear el entorno virtual
+2.- .\env\Scripts\activate                          # Activar el entorno virtual
+3.- (env) PS C:\xampp\htdocs\tiendaVideoJuegos>     # Resultado cuando se activa el entorno virtual
+4.- deactivate                                      # Desactuvar entorno virtual
+5.- PS C:\xampp\htdocs\tiendaVideoJuegos>           # Resultado cuando se desativa el entorno virtual
+6.- pip install Django                              # Instalacion de Django
+7.- django-admin startproject tiendaVideoJuegos .   # Crear el projecto 
+8.- python manage.py runserver                      # Correr el servidor
+9.- setting.py                                      # Cambiar el idioma y zona horaria
+
+/* git y github */
+
+1.- git --version
+2.- git config --global user.name "Alberto Bernal"          # Configurar el nombre
+3.- git config --global user.email "smb34abr@gmail.com"     # Configurar el email
+4.-  git init                                               # Iniciar el repositorio local
+5.- 
