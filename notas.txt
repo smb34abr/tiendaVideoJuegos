@@ -1,5 +1,6 @@
 /* Crear base de datos tiendaVideoJuegos */
 https://www.youtube.com/watch?v=UE3HkJ7A-Mo
+https://www.youtube.com/watch?v=yqaLSlPOUxM
 
 1.- python -m venv env                              # Para crear el entorno virtual
 2.- .\env\Scripts\activate                          # Activar el entorno virtual
@@ -18,6 +19,7 @@ https://www.youtube.com/watch?v=UE3HkJ7A-Mo
 3.- git config --global user.email "smb34abr@gmail.com"     # Configurar el email
 4.- git init                                                # Iniciar el repositorio local
 5.- git status                                              # Ver el estado del repositorio
+6.- smb34abr@gmail.com => cThoa#nou4                        # Datos de acceso a github
 
 /* Crear un usuario */
 1.- python manage.py createsuperuser                     # Crear un usuario
