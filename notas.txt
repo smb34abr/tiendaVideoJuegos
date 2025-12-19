@@ -7,14 +7,18 @@ https://www.youtube.com/watch?v=UE3HkJ7A-Mo
 4.- deactivate                                      # Desactuvar entorno virtual
 5.- PS C:\xampp\htdocs\tiendaVideoJuegos>           # Resultado cuando se desativa el entorno virtual
 6.- pip install Django                              # Instalacion de Django
-7.- django-admin startproject tiendaVideoJuegos .   # Crear el projecto 
-8.- python manage.py runserver                      # Correr el servidor
-9.- setting.py                                      # Cambiar el idioma y zona horaria
+7.- pip freeze o pip list                          # Para ver que se tiene instalado
+8.- django-admin startproject tiendaVideoJuegos .   # Crear el projecto de Django
+9.- python manage.py runserver                      # Correr el servidor
+10.- python manage.py runserver 9000                # Espesificar el puerto por si tienes algun conflito de puerto
+11.- setting.py                                     # Cambiar el idioma y zona horaria
 
 /* git y github */
-
 1.- git --version
 2.- git config --global user.name "Alberto Bernal"          # Configurar el nombre
 3.- git config --global user.email "smb34abr@gmail.com"     # Configurar el email
-4.-  git init                                               # Iniciar el repositorio local
-5.- 
+4.- git init                                                # Iniciar el repositorio local
+5.- Confirmar y confgurar la rama y subir los archivos a github
+
+/* Crear una app */
+1.- 
