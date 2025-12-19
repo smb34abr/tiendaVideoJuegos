@@ -16,5 +16,11 @@ https://www.youtube.com/watch?v=UE3HkJ7A-Mo
 1.- git --version
 2.- git config --global user.name "Alberto Bernal"          # Configurar el nombre
 3.- git config --global user.email "smb34abr@gmail.com"     # Configurar el email
-4.-  git init                                               # Iniciar el repositorio local
-5.- 
+4.- git init                                                # Iniciar el repositorio local
+5.- git status                                              # Ver el estado del repositorio
+
+/* Crear un usuario */
+1.- python manage.py createsuperuser                     # Crear un usuario
+2.- introduce Username, Email address y Password         # => cThoa#nou4
+3.- python manage.py runserver                           # Correr el servidor
+4.- http://127.0.0.1:8000/admin/                         # Acceder al admin
