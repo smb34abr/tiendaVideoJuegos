@@ -19,4 +19,7 @@ https://www.youtube.com/watch?v=yqaLSlPOUxM
 2.- git config --global user.name "Alberto Bernal"          # Configurar el nombre
 3.- git config --global user.email "smb34abr@gmail.com"     # Configurar el email
 4.-  git init                                               # Iniciar el repositorio local
-5.- 
+
+/* Crea usuario en la aplicación */
+1.-  python manage.py createsuperuser                   # Se crea el usuario administrativo
+2.- python .\manage.py changepassword abernal           # Cuando se pierde la contraseña
