@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=yqaLSlPOUxM
 4.- deactivate                                      # Desactuvar entorno virtual
 5.- PS C:\xampp\htdocs\tiendaVideoJuegos>           # Resultado cuando se desativa el entorno virtual
 6.- pip install Django                              # Instalacion de Django
-7.- pip freeze o pip list                          # Para ver que se tiene instalado
+7.- pip freeze o pip list                           # Para ver que se tiene instalado
 8.- django-admin startproject tiendaVideoJuegos .   # Crear el projecto de Django
 9.- python manage.py runserver                      # Correr el servidor
 10.- python manage.py runserver 9000                # Espesificar el puerto por si tienes algun conflito de puerto
